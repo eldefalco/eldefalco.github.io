@@ -142,13 +142,13 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-# collections:
+collections:
 #   books:
 #     output: true
-#   # news:
-#   #   defaults:
-#   #     layout: post
-#   #   output: true
+    news:
+      defaults:
+        layout: post
+      output: true
 #   # projects:
 #   #   output: true
 
@@ -195,6 +195,8 @@ exclude:
   - _pages/blog.md
   - _pages/projects.md
   - _pages/repositories.md
+  - _pages/people.md
+  - _pages/books.md
 keep_files:
   - CNAME
   - .nojekyll
