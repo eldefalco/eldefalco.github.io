@@ -40,12 +40,10 @@ ninja.data = [{
         },{id: "news-received-a-top-scholar-award-to-begin-a-phd-at-uw-linguistics",
           title: 'Received a Top Scholar award to begin a PhD at UW Linguistics.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-awarded-a-jacobs-research-funds-grant-to-undertake-fieldwork-in-brazil-this-summer",
+          title: 'Awarded a Jacobs Research Funds Grant to undertake fieldwork in Brazil this summer!...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-co-presented-three-degrees-of-vowel-nasality-in-kawaiwete-tupi-guarani-with-myriam-lapierre-at-the-conference-on-indigenous-languages-of-latin-america-at-the-university-of-texas-austin",
+          section: "News",},{id: "news-co-presented-three-degrees-of-vowel-nasality-in-kawaiwete-tupi-guarani-with-myriam-lapierre-at-the-conference-on-indigenous-languages-of-latin-america-at-the-university-of-texas-austin",
           title: 'Co-presented “Three degrees of vowel nasality in Kawaiwete (Tupi‑Guarani)” with Myriam Lapierre at...',
           description: "",
           section: "News",},{id: "news-co-presented-the-acoustics-of-panãra-vowels-with-myriam-lapierre-alessio-tosolini-and-jeremy-steffman-at-the-5th-symposium-on-amazonian-languages-at-the-university-of-new-mexico",
