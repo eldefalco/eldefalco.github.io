@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: UW Linguistics PhD Student | Interdisciplinary Researcher
+subtitle: Linguistics PhD Student @ UW | Quant and Qual Researcher
 
 profile:
   align: right
