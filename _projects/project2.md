@@ -9,10 +9,6 @@ related_publications: false
 
 <hr />
 
-<hr />
-
-<hr />
-
 <h2>Problem</h2>
 <p>
 Infant-directed speech exhibits a markedly different acoustic and prosodic profile than adult-directed speech, yet speech emotion recognition systems are rarely trained or evaluated on infant-directed data. The lack of curated datasets limits the applicability of existing models to early caregiver–infant interactions.
