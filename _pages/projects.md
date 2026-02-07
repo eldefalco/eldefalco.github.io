@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-description: Current projects and tools
+description: Recent projects and tools
 nav: true
 nav_order: 3
 display_categories: [work, fun]
