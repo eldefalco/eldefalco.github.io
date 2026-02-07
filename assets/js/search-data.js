@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "news-received-a-top-scholar-award-to-begin-a-phd-at-uw-linguistics",
+  },{id: "nav-research",
+          title: "Research",
+          description: "Current projects and tools",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "news-received-a-top-scholar-award-to-begin-a-phd-at-uw-linguistics",
           title: 'Received a Top Scholar award to begin a PhD at UW Linguistics.',
           description: "",
           section: "News",},{id: "news-awarded-a-jacobs-research-funds-grant-to-undertake-fieldwork-in-brazil-this-summer",
@@ -39,7 +46,12 @@ ninja.data = [{
           section: "News",},{id: "news-awarded-the-arienne-dwyer-language-documentation-award",
           title: 'Awarded the Arienne Dwyer Language Documentation Award!',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-crosslinguistic-emotion-classification",
+          title: 'Crosslinguistic Emotion Classification',
+          description: "An interpretable speech emotion recognition study examining where SER models diverge from human perception.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project1.html";
+            },},{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',
