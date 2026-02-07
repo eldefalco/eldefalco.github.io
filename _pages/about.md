@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Linguistics PhD Student @ UW | Quant and Qual Researcher
+subtitle: Linguistics PhD Student @ UW | Speech Researcher
 
 profile:
   align: right
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fourth-year PhD student in Linguistics and Computational Linguistics at the [University of Washington](https://linguistics.washington.edu) advised by [Richard Wright](https://linguistics.washington.edu/people/richard-wright), [Gina-Anne Levow](https://linguistics.washington.edu/people/gina-anne-levow), and [Myriam Lapierre](https://linguistics.washington.edu/people/myriam-lapierre). My work integrates the study of speech technologies, affective science, and linguistics. I am currently focused on furthering our understanding of how emotion is expressed in speech through both multilingual corpus-based work and fieldwork with low-resource, endangered language communities. I employ qualitative and quantitative experimental and computational methodologies to analyze ethnopsychological and acoustic emotion data. The overarching aim of my work is to compare the acoustic cues to emotion in speech across languages to examine the universality (or lack therof) of those cues.
+I am a fourth-year PhD student in Computational Linguistics at the [University of Washington](https://linguistics.washington.edu) advised by [Richard Wright](https://linguistics.washington.edu/people/richard-wright), [Gina-Anne Levow](https://linguistics.washington.edu/people/gina-anne-levow), and [Myriam Lapierre](https://linguistics.washington.edu/people/myriam-lapierre). My work integrates the study of speech technologies, affective science, and linguistics. I am currently focused on furthering our understanding of how emotion is expressed in speech through both multilingual corpus-based work and fieldwork with low-resource, endangered language communities. I employ qualitative and quantitative experimental and computational methodologies to analyze ethnopsychological and acoustic emotion data. The overarching aim of my work is to compare the acoustic cues to emotion in speech across languages to examine the universality (or lack therof) of those cues.
 
 Prior to joining UW in Fall 2022, I completed an MA in Language Documentation and Revitalization at the University of Hawaiʻi at Mānoa and a BA in Linguistics at the University of Rochester in upstate NY. My undergraduate and master's degrees focused on the documentation of speech in endangered languages and the cognitive aspects of linguistics. I will receive an MS in Computational Linguistics from UW in Spring 2026.
 

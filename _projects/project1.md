@@ -2,10 +2,9 @@
 layout: page
 title: Crosslinguistic Emotion Classification
 description: An interpretable speech emotion recognition study examining where SER models diverge from human perception.
-img: vivid-blurred-colorful-background.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 <hr />
@@ -31,7 +30,7 @@ The analysis highlights where machine emotion recognition aligns with—and dive
 
 <hr />
 
-<h2>Methods (High-Level)</h2>
+<h2>Methods</h2>
 <ul>
   <li>
     Cross-linguistic speech emotion analysis using two acted corpora:
