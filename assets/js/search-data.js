@@ -58,8 +58,8 @@ ninja.data = [{
           description: "An interpretable speech emotion recognition study examining where SER models diverge from human perception.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project1.html";
-            },},{id: "projects-ser-for-infant-directed-speech",
-          title: 'SER for Infant-Directed Speech',
+            },},{id: "projects-speech-emotion-recognition-for-infant-directed-speech",
+          title: 'Speech Emotion Recognition for Infant-Directed Speech',
           description: "A new dataset for speech emotion recognition.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project2.html";
