@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SER for Infant-Directed Speech 
+title: Speech Emotion Recognition for Infant-Directed Speech 
 description: A new dataset for speech emotion recognition.
 importance: 2
 category: work
