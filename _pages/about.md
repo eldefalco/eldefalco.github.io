@@ -6,7 +6,7 @@ subtitle: Linguistics PhD Student @ UW | Quant and Qual Researcher
 
 profile:
   align: right
-  image: ella-portrait-1800px.JPG
+  image: ella-portrait-1800px.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>email: edefalco@uw.edu</p>
